@@ -1,3 +1,3 @@
 # mycode
 
-VZ-PYANA
+Learning about Git, or at least trying to.
